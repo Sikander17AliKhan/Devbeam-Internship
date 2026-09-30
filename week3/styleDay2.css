@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+#message {
+    font-size: 20px;
+    margin: 20px;
+}
+
+button {
+    padding: 10px 18px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#styleBtn {
+    background-color: blue;
+    color: white;
+}
+
+#addBtn {
+    background-color: green;
+    color: white;
+}
+
+#removeBtn {
+    background-color: red;
+    color: white;
+}
+
+ul {
+    width: 300px;
+    margin: 20px auto;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+    background-color: lightgray;
+    padding: 10px;
+    margin: 8px;
+    border-radius: 5px;
+}
+
+.highlight {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
